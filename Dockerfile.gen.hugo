@@ -1,5 +1,5 @@
 # Instalimi i Sistemit Operativ te konteinerit - Imazhi Baze
- FROM ubuntu:18.04 
+ FROM ubuntu:16.04 
  
  ARG HUGO_VERSION=0.59.1
  ENV HOME_DIR=/hugo-faqja
