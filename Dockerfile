@@ -25,4 +25,3 @@ RUN mv /usr/share/nginx/html/index.html /usr/share/nginx/html/index.old
 COPY --from=HUGOSETUP /hugo-faqja/public /usr/share/nginx/html
 # Konteineri do te ndegjoje ne portin TCP 80
 EXPOSE 80
-

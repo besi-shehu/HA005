@@ -1,4 +1,4 @@
- # Instalimi i Sistemit Operativ te konteinerit - Imazhi Baze
+# Instalimi i Sistemit Operativ te konteinerit - Imazhi Baze
  FROM ubuntu:18.04 
  
  ARG HUGO_VERSION=0.59.1
@@ -26,3 +26,4 @@
  VOLUME ${HOME_DIR}
  
  CMD ["hugo","server","--bind","0.0.0.0"]
+
