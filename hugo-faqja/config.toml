@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "http:// besiana.shehu.oseose.com"
 title = "johndoe"
 
 theme = "hugo-coder"
@@ -16,8 +16,8 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
+    author = "Besiana Shehu"
+    description = "Besiana Shehu's personal website"
     keywords = "blog,developer,personal"
     info = "Full Stack DevOps and Magician"
     avatarurl = "images/avatar.jpg"
