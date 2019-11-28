@@ -1,5 +1,5 @@
 # Instalimi i Sistemit Operativ te kontenjerit - Imazhi Baze
-FROM ubuntu:18.04 as HUGOSETUP
+FROM ubuntu:16.04 as HUGOSETUP
 ARG HUGO_VERSION=0.59.1
 ENV DOCUMENT_DIR=/hugo-faqja
 RUN apt-get update && apt-get upgrade -y \
