@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 baseurl = "http://www.example.com"
 title = "johndoe"
+=======
+baseurl = "http://besiana.shehu.oseose.com"
+title = "besiana shehu"
+>>>>>>> 1f4dac0d0e210079884cbcb1b9aedff49c813e1c
 
 theme = "hugo-coder"
 
@@ -16,8 +21,13 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
+<<<<<<< HEAD
     author = "John Doe"
     description = "John Doe's personal website"
+=======
+    author = "Besiana Shehu"
+    description = "Besiana Shehu's personal website"
+>>>>>>> 1f4dac0d0e210079884cbcb1b9aedff49c813e1c
     keywords = "blog,developer,personal"
     info = "Full Stack DevOps and Magician"
     avatarurl = "images/avatar.jpg"
