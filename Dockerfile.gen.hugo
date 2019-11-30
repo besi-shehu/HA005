@@ -1,5 +1,11 @@
+
  # Instalimi i Sistemit Operativ te konteinerit - Imazhi Baze
  FROM ubuntu:18.04 
+
+# Instalimi i Sistemit Operativ te konteinerit - Imazhi Baze
+ HEAD
+ FROM ubuntu:18.04 
+ 
  
  ARG HUGO_VERSION=0.59.1
  ENV HOME_DIR=/hugo-faqja
@@ -26,3 +32,5 @@
  VOLUME ${HOME_DIR}
  
  CMD ["hugo","server","--bind","0.0.0.0"]
+
+

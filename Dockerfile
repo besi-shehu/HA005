@@ -27,3 +27,5 @@ COPY --from=HUGOSETUP /hugo-faqja/public /usr/share/nginx/html
 EXPOSE 80
 
 
+
+
