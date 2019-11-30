@@ -15,12 +15,8 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "yourdiscussshortname"
-
-[params]
-
     author = "Besiana Shehu"
     description = "Besiana Shehu's personal website"
-
 
     keywords = "blog,developer,personal"
     info = "Full Stack DevOps and Magician"
